@@ -1,2 +1,3 @@
 # ansible-container
-Simple docker image for ansible
+
+A simple docker image for ansible used for executing ansible in container instate local console.

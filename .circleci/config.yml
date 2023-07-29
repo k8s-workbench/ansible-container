@@ -2,7 +2,7 @@ version: 2.1
 executors:
   docker-publisher:
     environment:
-      IMAGE_NAME: k8s-workbench/ansible-container
+      IMAGE_NAME: k8sworkbench/ansible-container
     docker:
       - image: circleci/buildpack-deps:stretch
 jobs:
